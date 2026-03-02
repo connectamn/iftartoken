@@ -1,0 +1,200 @@
+id,name,Dept.,Batch,Ref.,Payment Method
+222-115-181,Sultan al Islam ,CSE,57,FI,fundamental of islam course participants
+222-114-060,MD.Samiul Haque Peash ,ENG,53,FI,fundamental of islam course participants
+241-115-064,Ruhan,CSE,60,N/A,nan
+231-115-148,Arafat ,CSE,58,DBP9FR4C83,bkash
+242-115-045,Hifjur Rahman ,CSE,61,Fundamentals of Islam (FI),fundamental of islam course participants
+242-115-255,Mirza Raiyan Rahman ,CSE,61,Fundamental of Islam ,fundamental of islam course participants
+232-115-019,Fatema Jannat Ema ,CSE,59,Course Participant,fundamental of islam course participants
+242-115-019,Habib,CSE,61,FI,fundamental of islam course participants
+231-115-193,Mahdi Talukder,CSE,58,DBP5FRAVL1,bkash
+242-115-208,A T M Fayjur Rahman Adil,CSE,61,FOI,fundamental of islam course participants
+241-115-060,Tahmid Karim,CSE,60,Cash,nan
+222-1115-175,Kawsar Alam ,CSE,57,AHMED,AHMED
+253-115-088,Md. Siddiqur Rahman ,CSE,64,Fundamentals of Islam (FI),fundamental of islam course participants
+253-115-081,Abdullah Al Murshed ,CSE,64,participants of the Fundamentals of Islam Course,fundamental of islam course participants
+222-115-191,Mahmud,CSE,57,Mahmud,AHMED
+241-113-022,MD Saiful Islam Fahim,LAW,54,FI,fundamental of islam course participants
+231-115-210,Md Shafiul Alam Chowdhury ,CSE,58,Shafiul_58_231-115-210(Nagad),nagad
+252-113-003,Md Raj Islam Nasim ,LAW,57,"Md Raj Islam Nasim, LL.B 57th",nan
+242-115-221,Syed Ehsan Hussan ,CSE,61,Fundamentals of Islam ,fundamental of islam course participants
+242-115-166,Sayed Talha siddik ,CSE,61,FI,fundamental of islam course participants
+231-116-016,Samira Tabassum Chowdhury,BBA,58,Fundamentals of Islam (FI),fundamental of islam course participants
+231-115-324,Samaun ,CSE,65,FI,fundamental of islam course participants
+231-115-140,Jamil AHMED,CSE,58,FI,fundamental of islam course participants
+222-114-021,Md. Sadir Hossen ,ENG,53,Fundamentals of Islam (FI),fundamental of islam course participants
+221-115-129,MD FUAD HASAN ,CSE,56,participants of the Fundamentals of Islam Course,fundamental of islam course participants
+232-141-012,Abdullah Abu Sayad ,EEE,56,Abdullah Abu Sayad ; 232-141-012,nan
+252-115-196,Abdullah Al-Mamun,CSE,63,I am a participant of Fundamental of Islam course. ,fundamental of islam course participants
+252-111-005,Mashafi Joy ,ECO,27,Fundamentals of islam(FI),fundamental of islam course participants
+261-135-001,H FAHIM ASHRAF ,DS,1,FI,fundamental of islam course participants
+222-114-034,Mst. Saki Akter Nadia ,ENG,53,FI,fundamental of islam course participants
+241-113-050,TANZIM AHMED RIMON ,ECO,54,Fundamental of islam ,fundamental of islam course participants
+242-114-034,Rafi Hosen ,ENG,57,Fundamentals of Islam - FI,fundamental of islam course participants
+242-116-010,Oishik ,BBA,61,Tawfiq,nan
+242-116-076,Md.Tajul Islam ,BBA,61,DBP0G5HOOY ,nan
+231-115-160,Adilur Rahman ,CSE,58,FI,fundamental of islam course participants
+222-115-153,Muhaimin Hossain,CSE,57,FI,fundamental of islam course participants
+222-114-079,Abdullah Al Sakif ,ENG,53,FI,fundamental of islam course participants
+242-134-004,Syed Sultan Mortuza ,SWE,7,Bkash- sultan(242-134-004),bkash
+222-114-033,Tahsina AHMED Moni ,ENG,53,APA,nan
+242-115-247,Mahdee Haque,CSE,61,Fundamentals of Islam (FI) ,fundamental of islam course participants
+222-115-151,Suhan AHMED Joni,CSE,62,AHMED,AHMED
+242-115-248,Tarek AHMED Oyan ,CSE,61,Fundamental of Islam,fundamental of islam course participants
+222-115-205,Hatim Al Amin Chowdhury,CSE,57,Hatim,bkash
+241-134-035,Md Khalid Hasan ,SWE,6,participants of the Fundamentals of Islam Course,fundamental of islam course participants
+252-113-044,MD Shahriar rafi,LAW,57,1860085194,nan
+261-115-013,Safwan AHMED Chowdhury ,CSE,65,DBP0GCZ0J8,nan
+222-115-141,Ramim AHMED,CSE,57,AHMED,AHMED
+222-115-190,AHMED,CSE,57,AHMED,AHMED
+241-134-025,Athar Muhthasim Mahdi ,SWE,6,Participant of Course,fundamental of islam course participants
+261-135-016,Emad AHMED Chowdhury ,DS,1,1307561982,bkash
+251-115-242,A S TIHAM,CSE,62,Sayem,bkash
+242-134-019,Md Musthakim AHMED Shahan ,SWE,7,DBP3GFDO0P,bkash
+252-113-042,Abed Hasan Shahi,LAW,57,participants of the Fundamentals of Islam Course,fundamental of islam course participants
+261-115-155,Mahbubul Hasan Tasin ,CSE,65,DBP2GFPQNW,bkash
+231-115-123,Muhiminul Islam Chowdhury ,CSE,58,DBP2GFRH16,bkash
+242-115-212,Md. Obayedur Rahman ,CSE,61,DBP6GG2A5W,bkash
+261-115-176,Sheikh Azad AHMED ,CSE,65,DBP4GG9M24,bkash
+242-113-036,Jubayer Topu,LAW,55,DBP3GH3OM1,bkash
+231-115-343,Ferdus AHMED ,CSE,58,DBP9GHCAIB,bkash
+241-134-011,Tanvir Mahatab Rafid ,SWE,6,FI,fundamental of islam course participants
+231-115-349,MD REJAUL KORIM SADI,CSE,58,DBP1GIEBN9 (we two persons jointly paid),bkash
+261-115-096,Md Suhel AHMED ,CSE,65,DBP5GIP1AZ,bkash
+231-134-003,Kazi Abdul Halim Sunny ,SWE,4,Fundamental of Islam Course,fundamental of islam course participants
+261-115-001,Arfan Chowdhury ,CSE,65, DBP2GLWWIS,bkash
+242-115-327,Manzurul Ambia ,CSE,61,Dei nai ekhono,bkash
+252-134-044,Md Akil BIn Bahar,SWE,9,Akil,fundamental of islam course participants
+241-115-178,Ashfakul Islam Rafi ,CSE,60,DBP1GRMKQ5,bkash
+222-114-041,Anwar Nasim,ENG,53,FI,fundamental of islam course participants
+231-115-335,Mahmudur Rashid ,CSE,58,1877532642,bkash
+251-115-084,Tahzib Ebad Chowdhury ,CSE,62,DBP8GT5ROM,bkash
+251-115-060,Mohammed Abdul Fattah Mahdin ,CSE,62,DBP2GT8JDM,bkash
+251-115-065,Rishad Arefin ,CSE,62,DBP9GTORKD,bkash
+222-115-162,Joynal Abedin Quraishi ,CSE,57,AHMED,AHMED
+242-115-225,Miftahul Islam Fahim ,CSE,61,DBP2GTSEVE,bkash
+232-115-349,Farhan AHMED ,CSE,59,1721911943,bkash
+242-115-133,Syed Farhan Hussain Rasel,CSE,61,Fundamentals of Islam (FI) ,fundamental of islam course participants
+232-115-340,Tanim Shakib,CSE,59,DBQ7GUL3DT,bkash
+232-115-344,Rayhan Rahman ,CSE,59,DBQ3GUM087,bkash
+232-115-103,Muzahidul Haque Jaber ,CSE,59,DBQ4GUNTU6,bkash
+231-115-347,Mahmudul Hasan Emon ,CSE,58,DBQ6GUR1MU,bkash
+251-115-062,Arman Uddin AHMED ,CSE,62,DBQ7GUZXR1,bkash
+241-115-168,Mustafa siam ,CSE,60,DBQ2GVER4K,bkash
+242-115-136,Bashar AHMED ,CSE,61,FI,fundamental of islam course participants
+241-115-059,Syed TAHMED AHMED ,CSE,60,TAHMED,fundamental of islam course participants
+232-115-245,Minhaj Chowdhury ,CSE,60,DBQ6GXPABQ,bkash
+242-134-00,Kawser Ahamad,SWE,7,DBQ2H6KRSE,bkash
+251-115-169,Nasir AHMED ,CSE,62,DBQ9HAR5EL,bkash
+222-111-004,A.K.M Rezaul Karim Sunny ,ECO,21,DBQ6HAUTQO,bkash
+231-114-057,Shariar Hussan Shuvo ,ENG,61,FI,fundamental of islam course participants
+253-115-100,Towshif Uddin Jahin,CSE,64,DBQ2HDRG7W,bkash
+253-115-091,Opu Mia,CSE,64,DBQ3HE84VJ,bkash
+253-115-129,Samid zaman,CSE,64,DBQ4HEO4GE,bkash
+232-115-105,Mahdi Hasan,CSE,59,DBQ7HFBG67,bkash
+253-115-087,Mehedi Hasan Humydi,CSE,64,DBQ0HFSRKS,bkash
+242-115-070,Tawhid Shahriar,CSE,61,DBQ7HG79WV,bkash
+241-116-045,Sadikur Rahman ,BBA,60,Tahfim,bkash
+241-115-052,Md Arafat Islam Zihad,CSE,60,FOI participant,fundamental of islam course participants
+261-115-067,Arafat AHMED ,CSE,65,DBQ1HK4PRN,bkash
+261-115-164,Syed AHMED Tuwaha ,CSE,65,DBQ1HK8K6F,bkash
+261-115-047,Ibrahim,CSE,65,DBQ7HK5ULT,bkash
+241-115-091,Md Thaki Tazwar Al Rahman,CSE,60,Fundamental of Islam ,fundamental of islam course participants
+261-115-069,Minhazur Rahman Chowdhury,CSE,65,N/A,fundamental of islam course participants
+241-115-090, Sadat ,CSE,60,241-115-090,fundamental of islam course participants
+241-134-006,Md. Morsalin Raj ,SWE,6,74ZTJB67,nagad
+232-116-017,Md. Mahfuzur Rahman ,BBA,59,DBQ1I0KT31,bkash
+231-115-127,Mazharul Islam Tahmid ,CSE,58,DBQ4I0LMVC,bkash
+231-115-158,Ariful Islam Sadi ,CSE,58,DBR4I1PKHS,bkash
+132-116-007,MD Nayan Islam ,BBA,31,DBR3I1WSYZ,fundamental of islam course participants
+261-115-158,Abrar Al Rafi,CSE,65,DBR6IG5IFE,bkash
+232-113-004,Ashik Talukdar ,LAW,53,DBR6I2Z3KS,bkash
+232-115-342,Mijanur Rahman Oli ,CSE,59,Mobile recharge - DBR0I35WKC,bkash
+232-115-365,Nafiz Kamal Talha ,CSE,59,DBR2I361UE,bkash
+222-116-006,Ashfaque Munayeem Tahmim ,BBA,59,DBR0I36LZW,bkash
+231-141-012,Soleman hossen ashik ,EEE,55,DBR8ICK63O,bkash
+232-115-148,Syed Tamzid Akib ,CSE,59,DBR0IE4L5S,bkash
+232-115-147,MD.Tahsid Jaman Mahid ,CSE,59,DBR4IF6HUI,bkash
+251115028,Mahmudul hasan mehdi ,CSE,62,DBR4IFB1FO,bkash
+242-115-007,Md Yousuf Ali,CSE,61,DBR5IFCFRX,bkash
+251-115-124,Samir AHMED,CSE,62,DBR9IFM29D,bkash
+231-115-079,Tahsin AHMED ,CSE,58,DBR8IFLF04,bkash
+232-115-111,Md Ariful Alom Rakib ,CSE,60,DBR3IFMHDN,bkash
+251-115-178,Muhammad Tahsin khan ,CSE,62,Offline registration done for FOI course.,fundamental of islam course participants
+222-115-019,Md.Jeshan Khan,CSE,57,DBR2IFXRHM,bkash
+253-115-112,Alvi Hossain ,CSE,64,DBR4IH2ZGG,bkash
+222-115-245,Nabil ,CSE,57,DBR5IH5CNP,bkash
+222-115-223,Md Azad Hossen,CSE,57,DBR3IH9DAB,bkash
+231-115-061,Md Jillur Rahman,CSE,58,DBR5II1W51,bkash
+252-141-006,Ariful Haque Tahmim,EEE,60,DBR2IKQYWW,bkash
+252-141-003,Farhan Nadim,EEE,60,74ZVV2WJ,nagad
+252-141-001,Mosarofe Hosen Khan Minhaj ,EEE,60,Mosarofe 6th .. 74ZVXZK0,nagad
+242-113-011,MD Minhaj Uddin khan ,LAW,55,1327955505,bkash
+231-115-056,Tanvir Hasan,CSE,58,DBR9ILWYIB,bkash
+253-115-082,Jamil,CSE,64,Jamil,fundamental of islam course participants
+242-115-176,Abdur Rahman Mamun,CSE,61,DBR0IPS8CO,bkash
+242-115-179,Afzal Hussain Sayem ,CSE,61,Tawfiq,nagad
+242-115-154,Tanvirul Islam Tanim,CSE,61,DBR9IRV53F,bkash
+222-115-036,Kazi N.A Tanim,CSE,57,DBR3IS21O5,bkash
+242-115-163,Mohsin Hasan,CSE,61,DBR8ISDFI6,bkash
+231-115-074,Animesh Sarker ,CSE,58,DBR9ILWYIB,bkash
+242-111-018,Imteaz Huden Jony,ECO,25,DBR1J077NP,bkash
+231-115-068,Kazi Abu Jafor Arif ,CSE,58,DBR4INEHMA,bkash
+252-141-016,Salman AHMED ,EEE,60,DBR7J0Y3ZB,bkash
+221-114-040,Kazi Emdadul Haque ,ENG,53,Fundamentals of Islam,fundamental of islam course participants
+242-115-153,Fahim Chowdhury,CSE,61,DBS9J3Q49X,bkash
+242-115-158,Nabil Abdullah ,CSE,61,DBS3J4Y709,bkash
+242-115-006,S. M. Mahidul Haque,CSE,61,DBS1J55JWV,bkash
+242-134-015,Shashwoto Das Noyon ,SWE,7,DBS1J5UPR5,bkash
+222-115-164,"Sarwar AHMED Emran, Moksud Ali",CSE,57,tk fataimu AHMED or kase.,AHMED
+N/A,Moksud,N/A,N/A,AHMED,AHMED
+222-115-179,Amjad Hosen Jilany ,CSE,57,AHMED,fundamental of islam course participants
+222-115-118,Mustak AHMED Nishad ,CSE,57,DBS1JLGL81,bkash
+242-116-058,Ansarul Hoque ,BBA,61,DBS3JMMMFN,bkash
+241-115-119,Shanib Zawad Choudhury ,CSE,60,DBS8JN0KB0,bkash
+242-115-210,Towhidul Islam ,CSE,61,N/A,fundamental of islam course participants
+252-141-014,Moontakeem ,EEE,60,DBS9JORN5V,bkash
+222-115-071,Sahil Uddin Ishmam,CSE,57,DBS5JPLN11,bkash
+222-115-117,Ziad Hassan,CSE,57,DBS6JQVU1O,bkash
+252-141-010,Tanvir AHMED Rifat ,EEE,60,DBS7JR88JB,bkash
+242-115-111,Miftahur Rahman Omi ,CSE,61,DBS1JR5GDB,bkash
+242-115-132,Mahiyan Noor Mahi ,CSE,61,DBS1JRGBSF,bkash
+222-115-105,Abdullah Mohammed ,CSE,57,DBS7JS0K9B,bkash
+222-115-110,Ashfaqur Rahman Fahad,CSE,57,DBS1JS7IGD,bkash
+242-111-012,syed Khairuzzaman nazim,ECO,25,Fi,fundamental of islam course participants
+242-115-216,Tanvi Khan,CSE,61,DBS7JXN80J,bkash
+222-115-090,Mohammad Mostafizur Rahman,CSE,57,DBS7JYEOU1,bkash
+242-115-285,Abid AHMED Sunny ,CSE,61,DBS3K242HX,bkash
+222-115-097,Rayhan AHMED Shourov,CSE,57,DBS3K35L6X,bkash
+251-116-033,Rezaul Karim,BBA,62,DBS4K4X8G8,bkash
+231-134-035,Shekh Mahdi Mesbah ,SWE,4,DBS3K58DST,bkash
+232-115-104,Saiful Islam ,CSE,59,DBS2K5KIE0,bkash
+231-134-033,Robayedur Rahman,SWE,4,DBS9K5TJ51,bkash
+241-134-013,Imran hussain,SWE,6,FOI,fundamental of islam course participants
+242-115-129,A. S. M Nafiu Iqbal,CSE,61,DBS1K7GM5V,bkash
+252-134-042,Md Anamul Haque ,SWE,9,FOI,fundamental of islam course participants
+231-115-334,MD MUMINUR ROSHID TONMOY,CSE,59,DBS4K88QNY,bkash
+231-134-009,Radwan Rahman,SWE,4,Kazi abdul halim,bkash
+231-134-020,Ahsan Habib Rafat,SWE,4,kazi Abdul halim sanny ,bkash
+222-115-139,Mahdi Hasan Mehedi ,CSE,58,DC13K96BDT,bkash
+N/A,Abdur Rahman Muaj ,CSE,57,DC10KA79AE,bkash
+N/A,Pamel,CSE,57,AHMED,AHMED
+241-134-021,Olyur Rob,SWE,6,Tawfiq,tawfiq
+241-115-198,Mahbubur Rahman Liton,CSE,N/A,Tawfiq,tawfiq
+231-115-273,Abu Yousuf Md Jumman,CSE,58,Tawfiq,tawfiq
+232-115-366,N/A,CSE,59,Tawfiq,tawfiq
+232-115-338,N/A,CSE,59,Tawfiq,tawfiq
+231-115-293,Rifat,CSE,N/A,Tawfiq,tawfiq
+231-115-294,Fahim,CSE,N/A,Tawfiq,tawfiq
+231-115-268,Dewan,CSE,N/A,Tawfiq,tawfiq
+231-115-300,Usama,CSE,N/,Tawfiq,tawfiq
+231-134-034,N/A,SWE,4,Tawfiq,tawfiq
+231-115-109,N/A,CSE,58,Tawfiq,tawfiq
+232-115-212,Saiful  ,CSE,59,Tawfiq,tawfiq
+232-115-362,Syed Hassan,CSE,59,Tawfiq,tawfiq
+231-115-345,Toufiqur Rahman Tasin,CSE,58,Tawfiq,tawfiq
+222-115-192,Md. Abdus Selim,CSE,57,AHMED,AHMED
+222-115-185,Sayem,CSE,57,AHMED,AHMED
+251-115-056,Md. Samsul Alam,CSE,65,DC10KMNN84,bkash
+242-134-008,Imtiaz,SWE,6,N/A,tawfiq
+222-115-186,SUFIAN,CSE,57,AHMED,AHMED
